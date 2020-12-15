@@ -2,7 +2,7 @@
   "name": "vue-cli-plugin-micro",
   "version": "0.0.1",
   "description": "vue-cli plugin to micro",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -11,5 +11,5 @@
   "homepage": "https://github.com/micro-kid/vue-cli-plugin-micro#readme",
   "keywords": [],
   "author": "micro",
-  "license": "ISC"
+  "license": "MIT"
 }
